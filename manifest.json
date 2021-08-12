@@ -1,0 +1,10 @@
+{
+	"id": "chovanecm-open-link",
+	"name": "Open Link",
+	"version": "0.1",
+	"minAppVersion": "0.9.12",
+	"description": "Adds the option to add a link to page metadata.",
+	"author": "Martin Chovanec",
+	"authorUrl": "https://github.com/chovanecm",
+	"isDesktopOnly": false
+}
